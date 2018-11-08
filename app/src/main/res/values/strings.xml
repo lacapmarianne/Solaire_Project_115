@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Solaire_Project_115</string>
+    <string name="signBtn">SIGN IN</string>
+    <string name="imageBG">Solaire</string>
+    <string name="ReservationNameLabel">Reservation Name</string>
+    <string name="reservationName">Enter Reservation Name</string>
+    <string name="bookingNumLabel">Booking Number</string>
+    <string name="bookingNum">Enter Booking Number</string>
+</resources>
