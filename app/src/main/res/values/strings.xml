@@ -6,4 +6,10 @@
     <string name="reservationName">Enter Reservation Name</string>
     <string name="bookingNumLabel">Booking Number</string>
     <string name="bookingNum">Enter Booking Number</string>
+    <string name="welcome">Congrats, bitch! Logged in.</string>
+    <string name="check_sched">CHECK SCHEDULE</string>
+    <string name="date">Date</string>
+    <string name="reserve_now">RESERVE NOW</string>
+    <string name="img_1">image_1</string>
+    <string name="img_2">image_2</string>
 </resources>
