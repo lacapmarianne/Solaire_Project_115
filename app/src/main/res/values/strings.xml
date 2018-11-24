@@ -9,7 +9,21 @@
     <string name="welcome">Congrats, bitch! Logged in.</string>
     <string name="check_sched">CHECK SCHEDULE</string>
     <string name="date">Date</string>
-    <string name="reserve_now">RESERVE NOW</string>
     <string name="img_1">image_1</string>
     <string name="img_2">image_2</string>
+    <string name="checksched">CHECK SCHEDULE</string>
+    <string name="servicesched">Shuttle Service Shedule</string>
+    <string name="weekdaysched">WEEKDAYS: (Monday-Friday)</string>
+    <string name="solaire">SOLAIRE</string>
+    <string name="moa">MOA</string>
+    <string name="time">TIME:</string>
+    <string name="time_1">7:00 AM to 9:00 AM</string>
+    <string name="time_2">10:00 AM to 12:00 NN</string>
+    <string name="time_3">1:00 PM to 3:00PM</string>
+    <string name="time_4">4:00PM to 6:00PM</string>
+    <string name="trinoma">TRINOMA</string>
+    <string name="gbelt">GREENBELT</string>
+    <string name="BusReservation">BUS RESERVATION:</string>
+    <string name="select_time">SELECT TIME:</string>
+    <string name="btnReserve">RESERVE</string>
 </resources>

@@ -23,8 +23,8 @@ public class WelcomeActivity extends AppCompatActivity {
         textViewDate.setText(currentDate);
     }
 
-    public void ReserveNow(View v) {
-        Intent n = new Intent(this, BookingActivity.class);
+    public void CheckSchedule(View v) {
+        Intent n = new Intent(this, CheckSchedActivity.class);
         startActivity(n);
     }
 

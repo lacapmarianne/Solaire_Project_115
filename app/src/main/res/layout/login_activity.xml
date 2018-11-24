@@ -67,7 +67,7 @@
         android:autofillHints=""
         android:ems="10"
         android:hint="@string/reservationName"
-        android:inputType="none"
+        android:inputType="none|textEmailAddress"
         app:layout_constraintBottom_toTopOf="@+id/signBtn"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.333"
